@@ -1,0 +1,8 @@
+db:
+  driverClass: com.zaxxer.hikari.benchmark.stubs.StubDriver
+  min: 32
+  max: 120
+  info:
+    url: jdbc:stub
+    user: brettw
+    pass:
